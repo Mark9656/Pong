@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bc2147f0ddf60ba42beab723a6555e58
+guid: 1257a35b026bd5a4085748a33677bd72
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - SF Sports Night
+  - Daydream
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
